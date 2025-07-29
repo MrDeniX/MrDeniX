@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi there! I'm Denis
 
-<!--
-**MrDeniX/MrDeniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a college student majoring in **Information Systems and Programming**  
+💻 Currently learning: `Python`, `Go`, `HTML`, `CSS`, `MySQL`, `JavaScript`  
+🌱 Focused on building backends with Django and Telegram bots using Go  
+🚀 My goal: become a junior backend developer and contribute to open-source projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+
+---
+
+### 📌 My Projects:
+- 🤖 [Telegram Weather Bot](https://github.com/...) — Go-based Telegram bot with weather API
+---
+
+### 📫 Contact Me:
+- Email: `mr.deniix@gmail.com`
+- Telegram: [@mrdeniix](https://t.me/@mrdeniix)
