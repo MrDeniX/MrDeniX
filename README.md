@@ -18,7 +18,7 @@
 ---
 
 ### 📌 My Projects:
-- 🤖 [Telegram Weather Bot](https://github.com/...) — Go-based Telegram bot with weather API
+- 🤖 [Telegram Weather Bot](https://github.com/MrDeniX/Telegram-Weather-Bot) — Go-based Telegram bot with weather API
 ---
 
 ### 📫 Contact Me:
